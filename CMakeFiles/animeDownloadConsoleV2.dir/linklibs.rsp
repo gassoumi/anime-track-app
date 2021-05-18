@@ -1,0 +1,1 @@
+ D:/Qt/5.15.1/msvc2019_64/lib/Qt5Sqld.lib D:/Qt/5.15.1/msvc2019_64/lib/Qt5Cored.lib -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

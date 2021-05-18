@@ -1,0 +1,4 @@
+D:/Project c++/animeDownloadConsoleV2/CMakeFiles/edit_cache.dir
+D:/Project c++/animeDownloadConsoleV2/CMakeFiles/animeDownloadConsoleV2.dir
+D:/Project c++/animeDownloadConsoleV2/CMakeFiles/rebuild_cache.dir
+D:/Project c++/animeDownloadConsoleV2/CMakeFiles/animeDownloadConsoleV2_autogen.dir

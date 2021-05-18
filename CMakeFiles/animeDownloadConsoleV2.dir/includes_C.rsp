@@ -1,0 +1,1 @@
+-I"D:/Project c++/animeDownloadConsoleV2" -I"D:/Project c++/animeDownloadConsoleV2/animeDownloadConsoleV2_autogen/include" -isystem D:/Qt/5.15.1/msvc2019_64/include -isystem D:/Qt/5.15.1/msvc2019_64/include/QtCore -isystem D:/Qt/5.15.1/msvc2019_64/./mkspecs/win32-msvc -isystem D:/Qt/5.15.1/msvc2019_64/include/QtSql

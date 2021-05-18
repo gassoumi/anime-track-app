@@ -1,0 +1,3 @@
+// for sync build src with web_root folder
+rsync.exe -r "/cygdrive/D/Project c++/animeDownloadConsoleV2/anime-download-web/build/"  "/cygdrive/D/Project c++/build-animeDownloadConsoleV2-Desktop_Qt_5_15_1_MinGW_32_bit-Debug/web_root/"
+rsync -r "/cygdrive/D/Project c++/animeDownloadConsoleV2/anime-download-web/build/"  "/cygdrive/D/Project c++/build-animeDownloadConsoleV2-Desktop_Qt_5_15_1_MinGW_32_bit-Debug/web_root/"
