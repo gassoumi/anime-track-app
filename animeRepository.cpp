@@ -29,6 +29,7 @@ bool database::AnimeRepositorySql::add(const model::Anime &entity)
     query.addBindValue(entity.searchKey);
     bool ok = query.exec();
     qDebug() << query.lastError();
+    qDebug() << "hello baby";
     return ok;
 }
 
